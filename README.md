@@ -1,14 +1,14 @@
-# Deve Cüce Oyunu
+# Camel Dwarf Game
 
-Bu proje, HTML, React ve Bootstrap kullanılarak geliştirilmiş basit bir oyunu içerir. Oyunun adı "Deve Cüce" olup, oyuncuların hızlı tepki verme yeteneklerini test eder.
+This project includes a simple game developed using HTML, React, and Bootstrap. The game's name is "Camel Dwarf," and it tests players' quick reaction skills.
 
-## Proje Özeti
+## Project Overview
 
-"Deve Cüce" oyunu, kullanıcıya 2 saniyede bir rastgele "Deve" veya "Cüce" kelimelerinden birini gösterir. Kullanıcı doğru kelimeye tıklayarak puan kazanır, yanlış kelimeye tıklayarak puan kaybeder. Oyun basit bir kullanıcı arayüzü ve eğlenceli bir mekanizma sunar.
+The "Camel Dwarf" game shows the user either the word "Camel" or "Dwarf" randomly every 2 seconds. The user gains points by clicking the correct word and loses points by clicking the wrong word. The game offers a simple user interface and a fun mechanism.
 
-## Kullanılan Teknolojiler
+## Technologies Used
 
-- **HTML**: Projenin temel yapı taşlarını sağlar.
-- **React**: Kullanıcı arayüzünü oluşturmak için kullanılır. React'in durum yönetimi ve etki yönetimi özellikleri (useState ve useEffect) oyunun dinamik özelliklerini kontrol eder.
-- **Bootstrap**: Estetik ve kullanıcı dostu bir arayüz sağlar. Butonlar ve stil düzenlemeleri için kullanılmıştır.
+- **HTML**: Provides the foundational structure of the project.
+- **React**:  Used to build the user interface. React's state management and effect management features (useState and useEffect) control the dynamic aspects of the game.
+- **Bootstrap**: Provides a stylish and user-friendly interface. It is used for buttons and style adjustments
 
